@@ -1,0 +1,6 @@
+framework module IronSourceAnalyticsiOSBridge {
+  umbrella header "IronSourceAnalyticsiOSBridge.h"
+
+  export *
+  module * { export * }
+}
